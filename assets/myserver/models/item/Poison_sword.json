@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "minecraft:item/handheld",
-	"textures": {
-		"layer0": "myserver:item/Poison_sword",
-		"particle": "myserver:item/Poison_sword"
-	}
-}
